@@ -64,5 +64,33 @@
   }
   #mybutton:hover {
     background-color: rgb(255, 129, 129);
-  } 
+  }
+  /* product */
+  section{
+    margin-top: 20px;
+  }
+  #children-adult{
+    width: auto;
+    height: 150px;
+    background-color:#D96767;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+  }
+  #children-adult h1{
+    font-size: 60px;
+    color: white;
+  }
+  #children-adult input{
+    width: 290px;
+    height: 30px;
+    border-radius: 10px;
+    border: white;
+    padding: 20px;
+  }
+  .col{
+    margin: 20px 20px;
+    text-align: center;
+  }
+  /* End product */
   
